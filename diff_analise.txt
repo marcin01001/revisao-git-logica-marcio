@@ -1,0 +1,1 @@
+As mudanças adicionam uma segunda reflexão no arquivo reflexao.txt. O diff mostra linhas adicionadas com explicação sobre decomposição e organização de branches.

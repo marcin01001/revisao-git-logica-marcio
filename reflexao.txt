@@ -1,0 +1,3 @@
+A lógica dedutiva aparece no uso do Git porque analisamos commits anteriores para deduzir o estado atual do projeto. Cada ação no Git segue regras lógicas: se um arquivo foi alterado em um commit e mantido no branch, deduzimos que ele estará presente na versão final, permitindo tomar decisões estruturadas sobre versionamento.
+A decomposição aparece na criação de branches porque cada branch representa uma parte isolada do problema. Isso permite organizar melhor o trabalho, dividir responsabilidades e integrar somente quando a parte estiver pronta.
+A decomposição aparece na criação de branches porque cada branch representa uma parte isolada do problema. Isso permite organizar melhor o trabalho, dividir responsabilidades e integrar somente quando a parte estiver pronta.
